@@ -1,0 +1,181 @@
+/* 'Montserrat' 500/700/900 */
+/* 'mr_KindlyJasmineG' 400 */
+
+:root {
+  --primary-text-color: #282828;
+  --link-color: #0499dd;
+}
+
+body {
+  font-family: "Montserrat";
+  font-size: 14px;
+  color: var(--primary-text-color);
+}
+
+.title {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 1.21;
+}
+
+.more {
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 1.25;
+  text-decoration-line: underline;
+}
+
+/* --------Section Header-------- */
+
+.header-logo {
+}
+.header-list {
+}
+.header-list-item {
+}
+.header-list-link {
+  font-weight: 500;
+  line-height: 1.21;
+}
+.header-list-link:hover,
+.header-list-link:focus {
+  color: var(--link-color);
+}
+
+/* --------Section Hero-------- */
+
+.hero-title {
+}
+.hero-title-top {
+  font-weight: 700;
+  font-size: 72px;
+  line-height: 1.22;
+}
+.hero-title-middle {
+  font-family: "mr_KindlyJasmineG", sans-serif;
+  font-size: 64px;
+  line-height: 1;
+  color: var(--link-color);
+}
+.hero-title-bottom {
+  font-weight: 900;
+  font-size: 96px;
+  line-height: 1.22;
+}
+.hero-soc-list {
+}
+.hero-soc-item {
+}
+.hero-btn {
+  padding: 16px 72px 17px 53px;
+  background: linear-gradient(92.71deg, #0499dd 0%, #17c1bc 100%);
+  border-radius: 60px;
+  border-color: transparent;
+
+  font-weight: 700;
+  font-size: inherit;
+  line-height: 1.21;
+  color: #f8f8f8;
+}
+
+/* --------Section Popular Excursion-------- */
+
+.excursion-title {
+}
+
+.excursion-more {
+}
+
+.excursion-list {
+}
+.excursion-list-item {
+}
+.excursion-item-title-top {
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 1.25;
+}
+.excursion-item-title-middle {
+  font-weight: 700;
+  line-height: 1.21;
+}
+.excursion-btn {
+  padding: 12px 43px 13px 43px;
+
+  background: linear-gradient(92.71deg, #0499dd 0%, #17c1bc 100%);
+  border-radius: 40px;
+  border-color: transparent;
+
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 1.25;
+  color: #f8f8f8;
+}
+
+/* --------Section About Us-------- */
+
+.about-frame {
+}
+.about-title {
+}
+.about-top-text {
+  font-weight: 500;
+  line-height: 1.21;
+}
+.about-bottom-text {
+  font-weight: 500;
+  line-height: 1.21;
+}
+
+/* --------Section Excursion types-------- */
+
+.ex-type-title {
+}
+.ex-type-text {
+  font-weight: 500;
+  line-height: 1.21;
+}
+.ex-type-list {
+}
+.ex-type-card {
+}
+
+/* --------Section Feedbacks-------- */
+
+.feedback-title {
+}
+.feedback-more {
+}
+.feedback-card {
+}
+.feedback-card-img {
+}
+.feedback-card-title {
+  font-weight: 700;
+  line-height: 1.21;
+}
+.feedback-card-text {
+  font-weight: 500;
+  line-height: 1.21;
+}
+
+/* --------Section Footer-------- */
+
+.footer-logo {
+}
+.footer-logo-img {
+}
+.footer-nav {
+}
+.footer-nav-item {
+}
+.footer-nav-link {
+  font-weight: 500;
+  line-height: 1.21;
+}
+.footer-contact-list {
+}
+.footer-contact-item {
+  font-weight: 500;
+  line-height: 1.21;
+}
