@@ -12,6 +12,12 @@ body {
   color: var(--primary-text-color);
 }
 
+.container {
+  margin: 0 auto;
+  width: 1440px;
+  outline: solid 2px red;
+}
+
 .title {
   font-weight: 700;
   font-size: 24px;
@@ -27,9 +33,16 @@ body {
 
 /* --------Section Header-------- */
 
+.header-container {
+  display: flex;
+  align-items: center;
+}
 .header-logo {
+  margin-right: 777px;
 }
 .header-list {
+  display: flex;
+  gap: 20px;
 }
 .header-list-item {
 }
